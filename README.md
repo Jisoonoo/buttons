@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](D:\button-component-master\my-app2\preview.png)
+![screenshot](./preview.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
